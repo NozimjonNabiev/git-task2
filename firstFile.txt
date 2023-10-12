@@ -6,5 +6,5 @@ for
 the
 task
 requirement
-git
-task 2
+for
+git task 2

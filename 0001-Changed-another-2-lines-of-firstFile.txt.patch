@@ -1,0 +1,26 @@
+From da81084fabbb9584a0115859484765091c4167df Mon Sep 17 00:00:00 2001
+From: Nozimjon Nabiev <nozimjonnabiev7@gmail.com>
+Date: Mon, 20 Nov 2023 16:11:09 +0500
+Subject: [PATCH] Changed another 2 lines of firstFile.txt
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index 2576886..4fe709f 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,7 +1,7 @@
+ This
+ is
+-10
+-line
++ten
++line text
+ for 
+ the
+ task
+-- 
+2.37.2.windows.2
+
