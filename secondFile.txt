@@ -2,6 +2,8 @@ This
 is
 changed
 version of 10
+another modified
+ten
 line
 for
 the 
