@@ -1,0 +1,10 @@
+This
+is
+another
+10
+line
+for
+the 
+git
+task
+2
