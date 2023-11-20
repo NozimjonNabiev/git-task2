@@ -1,7 +1,7 @@
 This
 is
-another
-10
+changed
+version of 10
 line
 for
 the 
